@@ -1,0 +1,11 @@
+C:\Users\CCT39\Documents\GitHub\GomokuPractice1\GomokuPractice1\bin\Debug\GomokuPractice1.exe.config
+C:\Users\CCT39\Documents\GitHub\GomokuPractice1\GomokuPractice1\bin\Debug\GomokuPractice1.exe
+C:\Users\CCT39\Documents\GitHub\GomokuPractice1\GomokuPractice1\bin\Debug\GomokuPractice1.pdb
+C:\Users\CCT39\Documents\GitHub\GomokuPractice1\GomokuPractice1\obj\Debug\GomokuPractice1.csproj.AssemblyReference.cache
+C:\Users\CCT39\Documents\GitHub\GomokuPractice1\GomokuPractice1\obj\Debug\GomokuPractice1.csproj.SuggestedBindingRedirects.cache
+C:\Users\CCT39\Documents\GitHub\GomokuPractice1\GomokuPractice1\obj\Debug\GomokuPractice1.Form1.resources
+C:\Users\CCT39\Documents\GitHub\GomokuPractice1\GomokuPractice1\obj\Debug\GomokuPractice1.Properties.Resources.resources
+C:\Users\CCT39\Documents\GitHub\GomokuPractice1\GomokuPractice1\obj\Debug\GomokuPractice1.csproj.GenerateResource.cache
+C:\Users\CCT39\Documents\GitHub\GomokuPractice1\GomokuPractice1\obj\Debug\GomokuPractice1.csproj.CoreCompileInputs.cache
+C:\Users\CCT39\Documents\GitHub\GomokuPractice1\GomokuPractice1\obj\Debug\GomokuPractice1.exe
+C:\Users\CCT39\Documents\GitHub\GomokuPractice1\GomokuPractice1\obj\Debug\GomokuPractice1.pdb
